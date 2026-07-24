@@ -7,7 +7,9 @@ This repository **HiddenMerit-s-SQL-Server-Projects** is licensed under Business
 
 ❌ Restricted：Any commercial usage, production deployment, revenue-related use without official written authorization from author.
 
-mail:contact@hiddenmerit.org
+Business contact：contact@hiddenmerit.org
+
+WeChat ID：ClydeJin
 
 ## 中文说明
 
@@ -20,3 +22,4 @@ mail:contact@hiddenmerit.org
 所有商业场景使用、生产环境部署、基于本项目代码搭建盈利系统，**必须联系作者 HiddenMerit（绩隐金）获取书面商业授权**。
 
 未经授权严禁商用、二次封装、转售分发。
+
